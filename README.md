@@ -6,8 +6,8 @@ Projeto que utiliza um joystick para controlar a intensidade de LEDs RGB via PWM
 
 - Controle da intensidade dos LEDs RGB utilizando PWM.
 - Movimentação de um quadrado no display OLED SSD1306 com base na posição do joystick.
-- Alternância de estilos de borda no display.
-- Controle de estado dos LEDs e PWM através de botões.
+- Alternância de estilos de borda no display ao pressionar o botão do joystick.
+- Controle de estado dos LEDs e PWM através do botão A.
 
 ## Hardware e Conexões
 
